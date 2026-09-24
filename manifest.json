@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Repeat Plus",
+    "description": "Enables Repeat One for Spotify autoplay and radio tracks where repeat is normally unavailable.",
+    "preview": "preview.png",
+    "main": "dist/repeat-plus.js",
+    "readme": "README.md",
+    "tags": ["repeat", "player", "autoplay"]
+  }
+]
